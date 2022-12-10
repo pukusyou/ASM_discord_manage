@@ -1,0 +1,2 @@
+# ASM_discord_manage
+ArkServerManagerをdiscordで管理できるようにします
