@@ -12,9 +12,9 @@
 4. rconを有効化, サーバー管理者用ログを有効化にチェックを入れる
 5. 保存
 
-![asm1](picture\asm1.png)
-![asm2](picture\asm2.png)
-![config.ini](picture\ini.png)
+![asm1](picture/asm1.png)
+![asm2](picture/asm2.png)
+![config.ini](picture/ini.png)
 
 # How to use
 * /start_server: サーバーを起動します
