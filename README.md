@@ -26,11 +26,14 @@
 * /pc_resource: pcの負荷を確認できます
 # Operating environment
 * windows10
+* python 3.10.8
+* discord.py 2.1.0
+* psutil 5.9.4
+* mcrcon 0.7.0
 * ArkServerManager 日本語環境
 
 # Test environment
 * Windows10
-* python 3.10.8
 * ArkServerManager 1.1.438.1
 
 # Note
