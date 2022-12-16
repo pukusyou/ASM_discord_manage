@@ -2,7 +2,7 @@
 [ArkServerManager](https://arkservermanager.freeforums.net/thread/5193/downloads)をdiscordで管理できます
 [Download](https://github.com/pukusyou/ASM_discord_manage/releases/tag/0.0.1)
 # Setting
-* (ArkServerManagerの設定は完了しているものとします)
+* (ArkServerManager の設定は完了しているものとします)
 * config.iniを開きます
 * 下記のように設定を書き換え, 保存します
 * ASM_discord_manage.exeを実行します
